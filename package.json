@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mini5239.github.io/Bucketlist",
   "name": "bucketlist",
   "version": "0.1.0",
   "private": true,
@@ -9,9 +10,12 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "swiper": "^11.1.14",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +38,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "classnames": "^2.5.1",
+    "css-loader": "^7.1.2",
+    "gh-pages": "^6.2.0",
+    "gsap": "^3.12.5",
+    "install": "^0.13.0",
+    "jquery": "^3.7.1",
+    "npm": "^10.9.0",
+    "postcss-loader": "^8.1.1",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.80.6",
+    "sass-loader": "^16.0.3"
   }
 }

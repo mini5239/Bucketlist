@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Bucketlist/static/css/main.4912aa80.css",
+    "main.js": "/Bucketlist/static/js/main.114810c5.js",
+    "static/js/453.e4245d61.chunk.js": "/Bucketlist/static/js/453.e4245d61.chunk.js",
+    "static/media/mok3.png": "/Bucketlist/static/media/mok3.2338cafbd34d28aee466.png",
+    "static/media/mok2.png": "/Bucketlist/static/media/mok2.2b383270e747cc69b264.png",
+    "static/media/fa-solid-900.ttf": "/Bucketlist/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/age2.jpg": "/Bucketlist/static/media/age2.51306dbe70247d470d4b.jpg",
+    "static/media/mok1.jpg": "/Bucketlist/static/media/mok1.faabdb806256d3ec5eea.jpg",
+    "static/media/fa-brands-400.ttf": "/Bucketlist/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/drum.jpg": "/Bucketlist/static/media/drum.24d6e2ade2b9a5e8ab9a.jpg",
+    "static/media/fa-solid-900.woff2": "/Bucketlist/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Bucketlist/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/gita.jpg": "/Bucketlist/static/media/gita.271bdf23a2490440ab93.jpg",
+    "static/media/mok4.jpg": "/Bucketlist/static/media/mok4.beaa6a06854a9d2138a0.jpg",
+    "static/media/piano.jpg": "/Bucketlist/static/media/piano.1333a3ea980ead2e12e4.jpg",
+    "static/media/fa-regular-400.ttf": "/Bucketlist/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/viol.jpg": "/Bucketlist/static/media/viol.ef0a2e03f6b1413c10ef.jpg",
+    "static/media/fa-regular-400.woff2": "/Bucketlist/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Bucketlist/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Bucketlist/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Bucketlist/index.html",
+    "main.4912aa80.css.map": "/Bucketlist/static/css/main.4912aa80.css.map",
+    "main.114810c5.js.map": "/Bucketlist/static/js/main.114810c5.js.map",
+    "453.e4245d61.chunk.js.map": "/Bucketlist/static/js/453.e4245d61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4912aa80.css",
+    "static/js/main.114810c5.js"
+  ]
+}
